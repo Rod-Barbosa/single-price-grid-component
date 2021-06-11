@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/Rod-Barbosa/single-price-grid-component.git](https://github.com/Rod-Barbosa/single-price-grid-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [rodrigos-single-price-grid-component.netlify.app](https://rodrigos-single-price-grid-component.netlify.app/)
 
 ## My process
 
